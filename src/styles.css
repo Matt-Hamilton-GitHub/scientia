@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:400,600");
+body {
+  margin: 0;
+  background: #222;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 800;
+}
+h1 {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 5px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
